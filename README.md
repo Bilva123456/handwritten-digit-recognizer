@@ -206,15 +206,11 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+Bilvarchitha Yadiki
+- GitHub:https://github.com/Bilva123456 
+- LinkedIn:https://www.linkedin.com/in/bilvarchitha-yadiki-1a966b251/ 
+- Email: yadikibilva2005@gmail.com
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 **Note**: This project is developed as part of a machine learning portfolio to demonstrate deep learning capabilities and CNN implementation skills.
